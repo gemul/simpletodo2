@@ -50,7 +50,7 @@ export const Header: React.FC<HeaderProps> = ({
             TF
           </div>
           <span className="text-lg font-bold tracking-tight text-neutral-900">
-            TaskFlow
+            Gema's Todo list
           </span>
         </div>
 
